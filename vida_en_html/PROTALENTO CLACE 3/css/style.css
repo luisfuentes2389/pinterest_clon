@@ -1,0 +1,15 @@
+.body{
+
+}
+.titulo1{
+    margin-left: 25;
+    margin-right:25;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   background-color: rgb(144, 10, 233);
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    color: rgb(15, 230, 87);
+}
+

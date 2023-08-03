@@ -1,0 +1,59 @@
+body{
+background-color: rgb(46, 42, 242);
+
+}
+
+.card{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  
+}
+
+.title{
+    text-align: center;
+    background-color: rgb(99, 152, 152);
+}
+
+.text{
+    text-align: justify;
+}
+
+.espacio_imagen{
+    width: 100%;
+    height: 250px;
+    text-align: center;
+}
+
+
+.img_profile{
+    height: 200px;
+    width: 200px;
+}
+
+
+.division{
+    height: 5px;
+    width: 100%;
+    background-color: black;
+}
+ 
+.division2{
+    height:5px;
+    width:100%;
+    background-color:black
+}
+.division3{
+    height:5px;
+    width:100%;
+    background-color:black
+    
+}
+ .division4{
+    height:5px;
+    width:100%;
+    background-color:black
+
+ }
+  
